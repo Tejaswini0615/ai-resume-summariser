@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pdfplumber
+python-docx
+nltk
+requests
+openai
